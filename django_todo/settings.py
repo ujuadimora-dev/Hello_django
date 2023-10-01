@@ -32,7 +32,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-ujuadimorad-hellodjango-h4ynaloledu.ws-eu105.gitpod.io']
+ALLOWED_HOSTS = [ 'Localhost','what-todo-app-02e03e363fc8.herokuapp.com','8000-ujuadimorad-hellodjango-h4ynaloledu.ws-eu105.gitpod.io']
 
 
 # Application definition
